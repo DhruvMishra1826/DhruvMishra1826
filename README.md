@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DhruvMishra1826
-- I m currently pursuing my B.Tech in CSE from Indian Institue of Technology- BHU, Varanasi (IIT BHU)
+- I m currently pursuing my B.Tech in CSE from Indian Institute of Technology- BHU, Varanasi (IIT BHU)
 - 👀 I’m interested in ...Coding
 - 🌱 I know ...C,C++,HTML5,CSS,JS and Node JS
 - 💞️ I’m looking to collaborate on ...Projects related to web development
