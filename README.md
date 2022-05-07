@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DhruvMishra1826
 - I m currently pursuing my B.Tech in CSE (2020-2024) from Indian Institute of Technology- BHU, Varanasi (IIT BHU)
-- 👀 I’m interested in ...Coding and i am 4 star (1839) on codechef and 1314 on codeforces.
+- 👀 I’m interested in ...Coding and i am 4 star (1839) on codechef and 1361 on codeforces.
 - 🌱 I know ...C,C++,HTML5,CSS,JS and Django
 - 💞️ I’m looking to collaborate on ...Projects related to web development
 - 📫 How to reach me ...mishra.x.dhruv18@gmail.com
