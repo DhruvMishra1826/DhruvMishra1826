@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @DhruvMishra1826
-- I m currently pursuing my B.Tech in CSE (2020-2024) from Indian Institute of Technology- BHU, Varanasi (IIT BHU)
-- 👀 I’m interested in ...Coding and i am 4 star on codechef and specialist on codeforces.
-- 🌱 I know ...C,C++,HTML5,CSS,JS and Django
-- 💞️ I’m looking to collaborate on ...Projects related to web development
-- 📫 How to reach me ...mishra.x.dhruv18@gmail.com
+Hey! Dhruv Mishra this side.
+I am a 3rd yearite undergard in CSE at IIT BHU-Varanasi. I am proficient in MERN development and always open to projects related to web development.
+Programming languages : C++,C,Python,Javascript
+Tech Stack : MERN,django,flask,spring boot
 
 <!---
 DhruvMishra1826/DhruvMishra1826 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
